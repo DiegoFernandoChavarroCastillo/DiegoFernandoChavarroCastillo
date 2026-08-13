@@ -4,9 +4,10 @@
 
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V0MDlpZ3VvdmJxODE2c2o2d3J6ejFqMWowMzJzb2Rrdmt3MXcydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTRUeNCbZECfhV9o7E/giphy.gif" width="220" alt="Coding animation"/>
+<!-- ASCII / terminal-style animation without requiring a local asset -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=760&height=170&lines=%24+whoami;Diego+Fernando+Chavarro+Castillo;%24+cat+focus.txt;Backend+%7C+Real-Time+Systems+%7C+Machine+Learning;%24+status;Building+software+that+solves+real+problems...;%5B++++++++%5D+Initializing...;%5B%23+++++++%5D+Backend;%5B%23%23++++++%5D+Real-Time;%5B%23%23%23+++++%5D+Machine+Learning;%5B%23%23%23%23++++%5D+Building...;%5B%23%23%23%23%23%5D+Ready." alt="Animated terminal"/>
 
-<br><br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=750&height=80&lines=Software+Engineering+Student+%F0%9F%92%BB;Backend+%7C+Frontend+%7C+Real-Time+Systems;Java+%2B+Spring+Boot+%7C+Python+%2B+FastAPI;React+%2B+TypeScript+%7C+NestJS;Exploring+Artificial+Intelligence+%F0%9F%A4%96)](https://git.io/typing-svg)
 
@@ -23,6 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=DiegoFernandoChavarroCastillo&style=for-the-badge&color=3B82F6&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
+
 ---
 
 # 👋 Hey, I'm Diego
@@ -47,13 +49,13 @@ I enjoy understanding how things work under the hood and turning ideas into comp
 
 ### 🚀 What I like building
 
-* Scalable and well-structured backend systems
-* Real-time applications using WebSockets
-* Modern web applications with React and TypeScript
-* APIs and microservices
-* Computer vision and intelligent systems
-* Machine learning experiments and applications
-* Software with clean architecture and good engineering practices
+- Scalable and well-structured backend systems
+- Real-time applications using WebSockets
+- Modern web applications with React and TypeScript
+- APIs and microservices
+- Computer vision and intelligent systems
+- Machine learning experiments and applications
+- Software with clean architecture and good engineering practices
 
 ---
 
@@ -73,46 +75,46 @@ I enjoy understanding how things work under the hood and turning ideas into comp
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🤖 AI & Data
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge\&logo=yolo\&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2F855A?style=for-the-badge\&logo=lightgbm\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2F855A?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -137,14 +139,14 @@ Implementa diferentes experiencias multijugador mediante WebSockets, incluyendo 
 
 **Highlights**
 
-* ⚡ WebSockets con Socket.IO
-* ⚽ Football Duel con física autoritativa
-* 🎯 Shooter Arena multijugador
-* 🧱 Arquitectura hexagonal
-* 🔐 Autenticación mediante JWT
-* 🧠 Estado efímero en memoria
-* 🚀 Optimización de game loops
-* 📊 Load testing y análisis de latencia
+- ⚡ WebSockets con Socket.IO
+- ⚽ Football Duel con física autoritativa
+- 🎯 Shooter Arena multijugador
+- 🧱 Arquitectura hexagonal
+- 🔐 Autenticación mediante JWT
+- 🧠 Estado efímero en memoria
+- 🚀 Optimización de game loops
+- 📊 Load testing y análisis de latencia
 
 **Performance**
 
@@ -180,17 +182,17 @@ Puede trabajar con cámaras IP mediante RTSP, teléfonos móviles usando IP Webc
 
 **Highlights**
 
-* 👁️ MOG2 + YOLOv8n
-* 📸 Evidencia fotográfica y clips de vídeo
-* 📱 Notificaciones mediante ntfy y Telegram
-* 🎥 Soporte para RTSP, IP Webcam y USB
-* 🌐 Panel web con React + Vite
-* 📡 Eventos en tiempo real mediante SSE
-* 🔄 Reconexión automática de cámaras
-* 🔐 Autenticación y rate limiting
-* 🧱 Arquitectura hexagonal
-* 🗃️ SQLite / PostgreSQL
-* 🐳 Docker para producción
+- 👁️ MOG2 + YOLOv8n
+- 📸 Evidencia fotográfica y clips de vídeo
+- 📱 Notificaciones mediante ntfy y Telegram
+- 🎥 Soporte para RTSP, IP Webcam y USB
+- 🌐 Panel web con React + Vite
+- 📡 Eventos en tiempo real mediante SSE
+- 🔄 Reconexión automática de cámaras
+- 🔐 Autenticación y rate limiting
+- 🧱 Arquitectura hexagonal
+- 🗃️ SQLite / PostgreSQL
+- 🐳 Docker para producción
 
 **Pipeline**
 
@@ -227,9 +229,9 @@ Notification
 
 ---
 
-# 🔬 More About My Projects
+# 🔬 Engineering Highlights
 
-### 🎮 Peerly — Real-Time Engineering
+## 🎮 Peerly — Real-Time Systems
 
 One of the main challenges of Peerly is maintaining a responsive real-time experience while several clients interact simultaneously.
 
@@ -238,8 +240,7 @@ The project uses specialized game loops, object pooling, spatial hashing and pre
 ```text
 Client
   │
-  ├── WebSocket
-  │
+  │ WebSocket
   ▼
 NestJS Gateway
   │
@@ -257,7 +258,7 @@ Multiple Clients
 
 ---
 
-### 🛡️ Secuh — Computer Vision
+## 🛡️ Secuh — Computer Vision
 
 Secuh combines traditional motion detection with an object detection model.
 
@@ -303,14 +304,14 @@ Instead of running YOLO continuously against every frame, the system first uses 
 
 <div align="center">
 
-|             🔍 Area            | 🎯 Focus                                                                    |
-| :----------------------------: | :-------------------------------------------------------------------------- |
-|     🤖 **Machine Learning**    | Model training · Evaluation metrics · Feature engineering · Computer Vision |
-| 🧠 **Artificial Intelligence** | Intelligent systems · AI-assisted applications · Applied AI                 |
-|      ☁️ **Cloud & DevOps**     | Docker · CI/CD · Cloud deployments · Infrastructure                         |
-|     ⚡ **Real-Time Systems**    | WebSockets · Event-driven architectures · Performance optimization          |
-|  🧱 **Software Architecture**  | Hexagonal architecture · Design patterns · Microservices                    |
-|    🌐 **Advanced Frontend**    | React · TypeScript · Performance · Accessibility                            |
+| 🔍 Area | 🎯 Focus |
+|:---:|:---|
+| 🤖 **Machine Learning** | Model training · Evaluation metrics · Feature engineering · Computer Vision |
+| 🧠 **Artificial Intelligence** | Intelligent systems · AI-assisted applications · Applied AI |
+| ☁️ **Cloud & DevOps** | Docker · CI/CD · Cloud deployments · Infrastructure |
+| ⚡ **Real-Time Systems** | WebSockets · Event-driven architectures · Performance optimization |
+| 🧱 **Software Architecture** | Hexagonal architecture · Design patterns · Microservices |
+| 🌐 **Advanced Frontend** | React · TypeScript · Performance · Accessibility |
 
 </div>
 
@@ -390,8 +391,12 @@ It's also about **understanding the problem, designing a maintainable solution, 
 
 > **"Build things that are worth learning from."**
 
+</div>
+
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:1D4ED8,50:111827,100:0D1117&text=&fontColor=FFFFFF&animation=fadeIn"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1D4ED8,50:111827,100:0D1117&height=120&section=footer&reversal=true"/>
 
 </div>
