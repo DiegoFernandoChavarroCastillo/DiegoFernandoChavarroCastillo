@@ -392,6 +392,6 @@ It's also about **understanding the problem, designing a maintainable solution, 
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1D4ED8,50:111827,100:0D1117&height=140&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&color=0:1D4ED8,50:111827,100:0D1117&text=&fontColor=FFFFFF&animation=fadeIn"/>
 
 </div>
